@@ -1,4 +1,3 @@
-<h1 align='center'>Food-G Order App 🍕</h1>
 
 #### **🍩 Technologies**
 

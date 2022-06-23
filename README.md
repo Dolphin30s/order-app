@@ -1,11 +1,8 @@
 <h1 align='center'>Food-G Order App 🍕</h1>
 
-#### **🍺 Live Demo:** https://food-g-app.web.app/home
-
 #### **🍩 Technologies**
 
 - Frontend
-
   - SCSS
   - Material UI
   - Axios
@@ -47,10 +44,7 @@ src
 
 #### **⚙ Install**
 
-1. Clone Project
 
-```
-  git clone https://github.com/igdev116/food-G-app.git
 ```
 
 2. Install Packages
